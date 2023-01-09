@@ -12,3 +12,4 @@ cmake-build-debug
 CMakeLists.txt
 _deps
 .idea
+./a.out
